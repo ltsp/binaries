@@ -1,0 +1,22 @@
+Source: ltsp-binaries
+Section: misc
+Priority: optional
+Maintainer: Alkis Georgopoulos <alkisg@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.4.1
+Vcs-Git: https://github.com/ltsp/binaries.git
+Vcs-Browser: https://github.com/ltsp/binaries/
+Homepage: https://ltsp.github.io
+Rules-Requires-Root: no
+
+Package: ltsp-binaries
+Architecture: all
+Description: Linux Terminal Server Project binaries
+ Provide some binaries that LTSP needs to enable client netbooting.
+ .
+ This package will only be available from the PPA and never from Debian.
+ See https://bugs.debian.org/944321. The following binaries are provided:
+  - memtest.0: memtest build for BIOS that can exit back to the iPXE menu
+  - memtest.efi: memtest build for UEFI
+  - snponly.efi: iPXE build for UEFI that uses the SNP stack
+  - undionly.kpxe: iPXE build for BIOS that uses the UNDI stack
