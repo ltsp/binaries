@@ -1,5 +1,11 @@
+ltsp-binaries (20.04-1) unstable; urgency=low
+
+  * Release 20.04-1
+
+ -- Alkis Georgopoulos <alkisg@gmail.com>  Thu, 30 Apr 2020 08:19:42 +0300
+
 ltsp-binaries (19.11-1) unstable; urgency=low
 
-  * Release 19.11-1.
+  * Release 19.11-1
 
  -- Alkis Georgopoulos <alkisg@gmail.com>  Mon, 11 Nov 2019 08:33:18 +0200
