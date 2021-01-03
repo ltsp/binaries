@@ -3,7 +3,7 @@ Section: misc
 Priority: optional
 Maintainer: Alkis Georgopoulos <alkisg@gmail.com>
 Build-Depends: debhelper (>= 10)
-Standards-Version: 4.4.1
+Standards-Version: 4.5.1
 Vcs-Git: https://github.com/ltsp/binaries.git
 Vcs-Browser: https://github.com/ltsp/binaries/
 Homepage: https://ltsp.org
