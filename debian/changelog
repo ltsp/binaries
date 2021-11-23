@@ -1,3 +1,9 @@
+ltsp-binaries (21.11-1) unstable; urgency=medium
+
+  * Import binaries from ipxe 1.21.1+git-20210429.323af9ee-0ubuntu1
+
+ -- Alkis Georgopoulos <alkisg@gmail.com>  Tue, 23 Nov 2021 18:36:26 +0200
+
 ltsp-binaries (21.01-1) unstable; urgency=medium
 
   * Version 21.01
