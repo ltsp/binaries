@@ -1,3 +1,9 @@
+ltsp-binaries (22.01-1) unstable; urgency=medium
+
+  * Import binaries from ipxe 1.21.1+git-20220113.fbbdc3926-0ubuntu1
+
+ -- Alkis Georgopoulos <alkisg@gmail.com>  Thu, 25 Aug 2022 07:50:34 +0300
+
 ltsp-binaries (21.11-1) unstable; urgency=medium
 
   * Import binaries from ipxe 1.21.1+git-20210429.323af9ee-0ubuntu1
