@@ -1,3 +1,9 @@
+ltsp-binaries (23.01-1) unstable; urgency=medium
+
+  * Import memtest86+ 6.00-1
+
+ -- Alkis Georgopoulos <alkisg@gmail.com>  Sat, 14 Jan 2023 09:11:12 +0200
+
 ltsp-binaries (22.01-1) unstable; urgency=medium
 
   * Import binaries from ipxe 1.21.1+git-20220113.fbbdc3926-0ubuntu1
